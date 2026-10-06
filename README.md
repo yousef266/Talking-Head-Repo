@@ -1,4 +1,1 @@
 This project focuses on an AI-driven end-to-end pipeline that generates realistic 3D facial animations and precise lip-syncing directly from Arabic speech and text. Addressing the severe scarcity of regional datasets in computer vision and graphics, the project relies on a custom-built dataset tailored specifically to the Egyptian dialect.
-I worked on designing the Speech-to-Animation Architecture.
-I assisted in building the diffusion model that generates the face points.
-Dataset preparation as well.
